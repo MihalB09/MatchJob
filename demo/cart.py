@@ -8,5 +8,5 @@ class Cart:
 
 if __name__ == "__main__":
     c = Cart()
-    c.add('Apple')
+    c.add('Strawberry')
     print(c.items)
